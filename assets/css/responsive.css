@@ -1,0 +1,451 @@
+@media (max-width: 1489.98px) {
+    .hero-right img{
+        width: 500px;
+        right: -15px;
+    }
+    .about-right-conetent h2{
+        font-size: 46px;
+    }
+    .customer-are .shep2{
+        right: 35px;
+        top: 37%;
+    }
+    .customer-are .shep1{
+        left: 35px;
+    }
+    .team-section .team-shep1 {
+        left: 2%;
+        bottom: 7%;
+    }
+    .team-section .team-shep2 {
+        right: 2%;
+        top: 35%;
+    }
+    .feedback-area .fb-slider-wraper{
+        width: 100%;
+        margin: 0;
+        padding: 0 15px;
+    }
+
+    .feedback-area .slick-slide{
+        opacity: 1;
+    }
+    .feedback-area .slick-list{
+        margin: 0 -28.5px;
+    }
+    .feedback-area .feedback-items .fb-right .fb-right-top p{
+        font-size: 16px;
+    }
+    .feedback-area .slick-center{
+        transform: scale(1);
+    }
+}
+@media (max-width: 1200px) {
+    .hero-section{
+        padding: 280px 0 100px;
+        margin-top: -180px;
+    }
+    .hero-right img{
+        bottom: -101px;
+    }
+    .hero-left h1{
+        font-size: 60px;
+    }
+    .navigation-bar #template-btn a{
+        padding: 14px 15px;
+        font-size: 14px;
+    }
+    .about-right-conetent h2{
+        font-size: 39px;
+    }
+    .about-right-conetent .about-box-wrapper .about-metatext {
+        margin-left: 15px;
+        margin-right: 50px;
+    }
+    
+
+}
+@media (max-width: 991.98px) {
+    .hero-right img{
+        display: none;
+    }
+    .hero-section{
+        padding: 300px 0 100px;
+        margin-top: -240px;
+    }
+    .destop-manu{
+        display: none;
+    }
+    .mobile-manu-btn{
+        display: block;
+    }
+
+    .navigation-bar .header-logo{
+        position: inherit;
+        width: 200px;
+        display: inline-block;
+    }
+    .topbar-section .header-left .topbar-info .top-addess-bar{
+        display: none;
+
+    }
+    .top-mail-bar{
+        display: none;
+    }
+    .navigation-bar{
+        padding: 0 10px 0 0;
+    }
+    .hedar-right{
+        text-align: left;
+    }
+    .hero-left::after {
+        top: 0;
+    }
+    .header-left .icone-wraper{
+        margin-right: 10px !important;
+    }
+
+    .about-right-conetent h2{
+        margin-top: 40px;
+        font-size: 46px;
+    }
+    .about-left{
+        text-align: center;
+        margin: 0;
+    }
+    .team-items{
+        margin-top: 30px;
+    }
+    .sec-title h2 {
+        margin-bottom: 10px;
+        font-size: 42px;
+        text-align: center;
+    }
+    .sec-title{
+        justify-content: center;
+    }
+    .sec-title #template-btn {
+        display: none;
+    }
+    .team-items{
+        max-width: 370px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 35px 18px;
+    }
+    .team-section .team-shep1 {
+        left: 285px;
+        bottom: 6%;
+    }
+    .team-section .team-shep2 {
+        right: 65px;
+        top: 21%;
+    }
+
+    .pricing-table-items{
+        margin-top: 30px;
+    }
+    .pricing-section .sec-title .sub-stitle h2{
+        margin: 0 auto;
+    }
+    .feedback-area .slick-list{
+        padding-top: 0 !important;
+    }
+    .feedback-area .sec-title h2 {
+        max-width: 400px;
+    }
+    .mobail-blog-btn{
+        display: block;
+    }
+    .blog-section #template-btn a{
+        padding: 12px 30px;
+    }
+    .footer-manu{
+        max-width: 260px;
+        margin: 0 auto;  
+    }
+    .footer-identy{
+        max-width: 260px;
+        margin: 0 auto;  
+    }
+    .footer-widget {
+        margin-bottom: 40px;
+    }
+    
+}
+
+@media (max-width: 775.98px){
+    .lang-switcher{
+        display: none;
+    }
+    .hedar-right{
+        text-align: right;
+    }
+    .tobar-social-manu{
+        margin-right: 0 !important;
+    }
+    .header-left .icone-wraper{
+        padding: 8px 0;
+        margin-right: 0px !important;
+    }
+    .hero-left h1{
+        font-size: 48px;
+    }
+    .hero-left{
+        z-index: 1;
+    }
+    .hero-left::after {
+        top: 124px;
+        right: 0;
+        z-index: -1;
+    }
+    .hero-left h6{
+        font-size: 18px;
+    }
+   
+    .about-right-conetent h2 {
+        font-size: 36px;
+    }
+    .customer-are .shep2{
+        top: 25%;
+    }
+    .customer-are .shep1{
+        bottom: 8%;
+    }
+    
+    .footer-spacer {
+        padding-top: 130px;
+    }
+
+   
+
+}
+@media (max-width: 767.98px){
+    .team-mobail-btn{
+        margin-top: 30px;
+        display: block !important;
+    }
+    .team-mobail-btn a{
+        background: var(--secendry-color);
+    }
+    .team-section .team-shep1 {
+        left: 2%;
+        bottom: 12%;
+    }
+    .team-section .team-shep2 {
+        right: 2%;
+        top: 19%;
+    }
+    .pricing-table-items {
+        max-width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .slick-list.draggable {
+        padding: 0px 0px 60px 0px !important;
+    }
+
+    .blog-section article {
+        padding: 10px;
+        max-width: 420px;
+        margin: 0 auto 40px;
+    }
+    .blog-section article .blog-catgory{
+        right: 50px;
+    }
+    .blog-section article .blog-ahthor {
+        margin-top: 15px;
+        margin-bottom: 12px;
+    }
+    .pt-mb-80{
+        padding-top: 80px !important;
+    }
+    .pb-mb-50{
+        padding-bottom: 50px !important;
+    }
+    .footer-manu{
+        width: auto;
+        margin: 0;
+    }
+    .footer-identy{
+        width: auto;
+        margin: 0;
+        text-align: left;
+    }
+    .footer-identy{
+        margin-top: 40px;
+    }
+    .footer-widget .footer-text{
+        margin-bottom: 40px;
+    }
+    .footer-spacer{
+        padding: 50px 0;
+    }
+
+    .footer-manu-2 .manu-title h6, .footer-manu .manu-title h6{
+        margin-bottom: 20px;
+    }
+    .wraping-padding{
+        padding-left: 15px;
+    }
+    
+}
+@media (max-width: 575.98px){
+    .navigation-bar #template-btn{
+        display: none;
+    }
+    .about-box-wrapper .abt-iimg-wrapperr img{
+        max-width: 110px;
+    }
+    .about-right-conetent .about-box-wrapper{
+        justify-content: flex-start;
+    }
+    .about-right-conetent .about-box-wrapper .about-metatext{
+        margin-left: 12px;
+        margin-right: 25px;
+    }
+    .about-right-conetent .about-box-wrapper .about-metatext h5{
+        font-size: 18px;
+        margin-top: 8px;
+    }
+    .about-right-conetent .about-box-wrapper .about-metatext span{
+        font-size: 14px;
+        margin: 0;
+    }
+    
+    .ct-items{
+        text-align: center;
+        max-width: 350px;
+        margin: 10px auto 18px;
+    }
+    .ct-sec-title h3{
+        font-size: 30px;
+    }
+    .customer-are .shep2{
+        top: 15%;
+    }
+    .customer-are .shep1{
+        bottom: 6%;
+    }
+    .team-section .team-shep1 {
+        left: 2%;
+        bottom: 5%;
+    }
+    .team-section .team-shep2 {
+        right: 2%;
+        top: 13%;
+    }
+    .sec-title h2{
+        font-size: 38px;
+    }
+    .slick-list.draggable {
+        padding: 0px 5px 60px 5px !important;
+    }
+    .feedback-area .feedback-items{
+        padding: 20px 25px;
+        display: inline-block !important;
+        text-align: center;
+    }
+
+    .feedback-items .fb-left img{
+        margin: 0 auto;
+        border-radius: 10px;
+    }
+    .feedback-items .fb-left{
+        text-align: center;
+        margin: 0 0 30px 0;
+    }
+    .footer-manu-2{
+        margin-top: 40px;
+    }
+    .footer-spacer{
+        padding: 30px 0;
+    }
+}
+
+@media (max-width: 440.98px){
+    .about-right-conetent h2 {
+        font-size: 32px;
+    }
+    .about-right .about-right-conetent p{
+        font-size: 17px;
+    }
+    .sec-title h2{
+        font-size: 36px;
+    }
+    .feedback-area .feedback-items .fb-right .fb-right-top p{
+        font-size: 15px;
+    }
+    .blog-section article .blog-catgory {
+        right: 22px;
+    }
+}
+
+@media (max-width: 400.98px){
+    .hero-left h6{
+        padding-left: 62px;
+    }
+    .hero-left h6::before{
+        width: 50px;
+    }
+    .hero-left .hero-btn #template-btn a{
+        padding: 15px 16px;
+        font-size: 15px;
+    }
+    .hero-left .hero-btn .video-btn{
+        margin-left: 25px;
+    }
+    .hero-left .hero-btn .video-btn a .icone-wraper{
+        width: 45px;
+        height: 45px;
+        font-size: 16px;
+    }
+    .hero-left h1 {
+        font-size: 43px;
+    }
+    .hero-left p{
+        font-size: 14px;
+    }
+    .about-right-conetent h2 {
+        font-size: 30px;
+    }
+    .sec-title h2{
+        font-size: 33px;
+    }
+    
+}
+@media (max-width: 385.98px){
+    .about-right-conetent .about-box-wrapper .about-metatext{
+        margin-left: 10px;
+        margin-right: 20px;
+    }
+    .about-right-conetent .about-box-wrapper .about-metatext h5{
+        font-size: 17px;
+    }
+    .about-right-conetent .about-box-wrapper .about-metatext span{
+        font-size: 13px;
+    }
+    .about-box-wrapper .abt-iimg-wrapperr img{
+        max-width: 90px;
+    }
+    .ct-sec-title h3{
+        font-size: 28px;
+    }
+    .ct-items{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .customer-are .shep2{
+        visibility: hidden;
+    }
+    .customer-are .shep1{
+        visibility: hidden;
+    }
+    .team-section .team-shep1{
+        visibility: hidden;
+    }
+    .team-section .team-shep2{
+        visibility: hidden;
+    }
+};
+
